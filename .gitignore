@@ -1,0 +1,7 @@
+.DS_Store
+src/.DS_Store
+node_modules
+.idea
+yarn.lock
+package-lock.json
+src/main.json

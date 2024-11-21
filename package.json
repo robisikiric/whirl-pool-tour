@@ -1,0 +1,26 @@
+{
+  "name": "tour_de_whirlpool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@orca-so/common-sdk": "^0.6.0",
+    "@orca-so/whirlpools-sdk": "^0.13.0",
+    "@solana/spl-token": "0.4.1",
+    "@solana/web3.js": "^1.92.3",
+    "bs58": "^5.0.0",
+    "decimal.js": "^10.4.3",
+    "jito-js-rpc": "^0.1.0",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.0"
+  }
+}
